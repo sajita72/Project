@@ -16,7 +16,7 @@
         android:layout_marginStart="16dp"
         android:paddingStart="12dp"
         android:paddingTop="100dp"
-        android:text="LOGIN"
+        android:text="LOGINPurnima"
         android:textSize="35sp"
         android:textStyle="bold"
         app:layout_constraintStart_toStartOf="parent"
